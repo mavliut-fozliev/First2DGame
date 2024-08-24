@@ -1,3 +1,14 @@
 {
-  "__version__": "1.0.6"
+  "__version__": "1.0.6",
+  "layer": [],
+  "sorting-layer": {
+    "layers": [
+      {
+        "id": 0,
+        "name": "default",
+        "value": 0
+      }
+    ],
+    "increaseId": 1
+  }
 }
